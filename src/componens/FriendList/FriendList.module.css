@@ -7,9 +7,9 @@
 }
 .item {
   box-shadow: 1px 0px 7px 0px rgba(0, 0, 0, 0.75);
-  margin-top: 15px;
+  margin: 7px auto;
   display: flex;
-  width: 325px;
+  width: 255px;
   height: 70px;
 }
 .item > img {
@@ -24,8 +24,8 @@
   margin-left: 15px;
   background: green;
   border-radius: 50%;
-  width: 10px;
-  height: 10px;
+  width: 14px;
+  height: 14px;
 }
 .statusRed {
   margin-right: 7px;
@@ -33,8 +33,8 @@
   margin-left: 15px;
 
   border-radius: 50%;
-  width: 10px;
-  height: 10px;
+  width: 14px;
+  height: 14px;
 
   background: red;
 }

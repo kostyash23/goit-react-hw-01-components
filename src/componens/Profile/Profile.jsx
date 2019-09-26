@@ -23,7 +23,7 @@ const Profile = ({ user, alt }) => {
         </li>
         <li>
           <span className={styles.label}>Likes</span>
-          <span className={styles.quantit}>{user.stats.likes}</span>
+          <span className={styles.quantity}>{user.stats.likes}</span>
         </li>
       </ul>
     </div>
